@@ -10,3 +10,9 @@ On the dark side, it close the source code and challenge accessibility, like Fla
 This is a project to test WebAssembly.
 
 The result is shown at [Wasm is great](http://wasm.is-great.org/).
+
+
+## First iteration : Sample app in [Rust](https://www.rust-lang.org/) and [Yew](https://yew.rs/)
+
+
+From [Build A Rust Frontend (Really FAST Web Apps with Yew) video](https://www.youtube.com/watch?v=MddGbXgIt2E&ab_channel=CodetotheMoon).
